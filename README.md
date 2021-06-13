@@ -1,47 +1,32 @@
+<h1 align="center">Hi 👋, I'm Mahdi Heidari</h1>
+<h3 align="center">A passionate computer science student from Iran</h3>
 
-<p style="right;">
-<!--- <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=mheidari98&style=flat-square&color=red"> --->
-<img align="right"  alt="Github Viewers" src="https://gpvc.arturio.dev/mheidari98">
-<img align="right"  alt="GitHub followers" src="https://img.shields.io/github/followers/mheidari98?style=flat-square&color=green">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mheidari98&color=blueviolet&style=flat">
 </p>
 
-- 👋 Hi, I’m Mahdi Heidari
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning angr framework 
+- 🌱 I’m currently learning **angr framework**
 - 💞️ I’m looking to collaborate on Open Source Project
-- 📫 How to reach me : heidari@ec.iut.ac.ir
+- 📫 How to reach me : **heidari@ec.iut.ac.ir**
 
 
 ## &#x1f4c8; GitHub Stats
 
-
-<a href="https://github.com/mheidari98/mheidari98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mheidari98&show_icons=true&line_height=27&count_private=true&&theme=shades-of-purple" alt="Mamad's GitHub Stats" />
-</a>
-<a href="https://github.com/mheidari98/mheidari98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheidari98&hide=tsql,html,css&theme=shades-of-purple" />
-</a>
-
-
-<!---
-<a href="https://github.com/mheidari98/mheidari98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheidari98&hide=tsql,html,css,scss,less" />
-</a>
-<a href="https://github.com/mheidari98/mheidari98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mheidari98&show_icons=true&line_height=27&count_private=true" alt="Mamad's GitHub Stats" />
-</a>
---->
-
-<!---
-<hr>
-### Find me @
-<p><b>Social medias :</b></p>
 <p align="center">
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/UserName/)
-[<img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="3.5%"/>](https://instagram.com/UserName)
-[<img src="https://image.flaticon.com/icons/png/128/2111/2111646.png" width="3.5%"/>](https://t.me/UserName)
+<a href="https://github.com/mheidari98">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mheidari98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mheidari98&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
---->
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<a href="https://linkedin.com/in/mheidari98"><img src="https://img.shields.io/badge/-mheidari98-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:heidari@ec.iut.ac.ir"><img src="https://img.shields.io/badge/-heidari@ec.iut.ac.ir-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a> -->
+</p>
 
 <!---
 mheidari98/mheidari98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
