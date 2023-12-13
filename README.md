@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahdi Heidari</h1>
 <h3 align="center">A passionate computer science student from Iran</h3>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mheidari98&color=blueviolet&style=flat">
 </p>
+-->
 
 - 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning **angr framework**
